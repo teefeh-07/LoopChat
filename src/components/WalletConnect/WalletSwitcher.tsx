@@ -217,3 +217,4 @@ export default WalletSwitcher;
 
  
 /* Review: Passed security checks for WalletSwitcher */
+
