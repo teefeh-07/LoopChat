@@ -127,3 +127,5 @@
   (var-get total-collateral)
 )
  
+;; 
+; Optimizing: strategy-borrowing performance metrics
