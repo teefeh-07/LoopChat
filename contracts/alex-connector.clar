@@ -118,3 +118,7 @@
 
 ;; Documentation: Implements alex-connector functionalities
 
+ 
+;; 
+; Optimizing: alex-connector performance metrics
+

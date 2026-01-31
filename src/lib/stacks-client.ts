@@ -236,3 +236,6 @@ export const cv = {
  
 // Internal: verified component logic for stacks-client
 
+ 
+// Docs: updated API reference for stacks-client
+

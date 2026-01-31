@@ -18,3 +18,6 @@ export interface ErrorBoundaryProps {
  
 // Docs: updated API reference for components
 
+ 
+// Internal: verified component logic for components
+

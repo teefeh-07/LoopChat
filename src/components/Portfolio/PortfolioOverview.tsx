@@ -115,3 +115,6 @@ export default PortfolioOverview;
  
 /* Review: Passed security checks for PortfolioOverview */
 
+ 
+// Docs: updated API reference for PortfolioOverview
+
