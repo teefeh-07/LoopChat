@@ -25,3 +25,6 @@ describe("example tests", () => {
  
 // Internal: verified component logic for fee-tracker.test
 
+ 
+// Docs: updated API reference for fee-tracker.test
+
