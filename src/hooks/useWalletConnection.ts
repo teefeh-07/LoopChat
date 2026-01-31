@@ -108,3 +108,7 @@ export function useWalletConnection(): UseWalletConnectionResult {
 }
 
 export default useWalletConnection;
+
+/**
+ * Documentation: Implements useWalletConnection
+ */
