@@ -228,3 +228,4 @@ export default {
   generateWalletConnectionQR,
 };
  
+// Docs: updated API reference for deepLinking
