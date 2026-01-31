@@ -119,3 +119,5 @@
 (define-read-only (get-total-interest)
   (var-get total-interest-earned)
 )
+
+;; Documentation: Implements strategy-lending functionalities
