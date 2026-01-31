@@ -74,3 +74,4 @@ export default { register, unregister, update, getRegistration };
 
  
 /* Review: Passed security checks for serviceWorkerRegistration */
+
