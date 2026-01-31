@@ -74,3 +74,5 @@
   (map-get? sold-options option-id)
 )
  
+;; 
+; Docs: updated API reference for strategy-options-selling
