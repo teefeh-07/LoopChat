@@ -92,3 +92,7 @@ export function useWalletSwitcher(): UseWalletSwitcherResult {
 }
 
 export default useWalletSwitcher;
+
+/**
+ * Documentation: Implements useWalletSwitcher
+ */
