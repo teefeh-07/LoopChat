@@ -121,3 +121,5 @@
 (define-read-only (get-blacklist-status (user principal))
   (map-get? blacklist user)
 )
+
+;; Documentation: Implements whitelist-manager functionalities
