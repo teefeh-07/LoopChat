@@ -362,3 +362,6 @@ export default useWallet;
  
 // Optimizing: useWallet performance metrics
 
+ 
+// Docs: updated API reference for useWallet
+
