@@ -25,3 +25,6 @@ describe("example tests", () => {
  
 // Optimizing: vault-rewards.test performance metrics
 
+ 
+// Docs: updated API reference for vault-rewards.test
+
