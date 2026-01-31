@@ -72,3 +72,7 @@
 ;; 
 ; Docs: updated API reference for price-feed-aggregator
 
+ 
+;; 
+; Internal: verified component logic for price-feed-aggregator
+
