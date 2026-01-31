@@ -68,3 +68,4 @@ export function getRegistration(): Promise<ServiceWorkerRegistration | undefined
 export default { register, unregister, update, getRegistration };
  
 // Optimizing: serviceWorkerRegistration performance metrics
+
