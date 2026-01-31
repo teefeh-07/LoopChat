@@ -79,3 +79,7 @@
 
 ;; Documentation: Implements risk-parameters functionalities
 
+ 
+;; 
+; Docs: updated API reference for risk-parameters
+
