@@ -29,3 +29,4 @@ describe("example tests", () => {
 // Internal: verified component logic for encoding-utils.test
 
  
+// Docs: updated API reference for encoding-utils.test
