@@ -118,3 +118,5 @@
   (calculate-vested-amount schedule-id)
 )
  
+;; 
+; Internal: verified component logic for token-vesting
