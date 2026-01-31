@@ -252,3 +252,7 @@ export class LeatherAdapter extends WalletAdapter {
 }
 
 export default LeatherAdapter;
+
+/**
+ * Documentation: Implements LeatherAdapter
+ */
