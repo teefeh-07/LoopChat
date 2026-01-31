@@ -97,3 +97,7 @@
 ;; 
 /* Review: Passed security checks for strategy-delta-neutral */
 
+ 
+;; 
+; Docs: updated API reference for strategy-delta-neutral
+
