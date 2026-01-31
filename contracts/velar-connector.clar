@@ -108,3 +108,5 @@
 ; Docs: updated API reference for velar-connector
 
  
+;; 
+; Internal: verified component logic for velar-connector
