@@ -210,3 +210,4 @@ const About = () => {
 
 export default About;
  
+// Optimizing: About performance metrics
