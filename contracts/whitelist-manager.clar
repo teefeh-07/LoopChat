@@ -125,3 +125,5 @@
 ;; Documentation: Implements whitelist-manager functionalities
 
  
+;; 
+; Docs: updated API reference for whitelist-manager
