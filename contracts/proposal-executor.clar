@@ -67,3 +67,4 @@
   (ok {stacks-time: stacks-block-time, burn-time: burn-block-height}))
 
 ;; Documentation: Implements proposal-executor functionalities
+
