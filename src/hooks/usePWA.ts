@@ -106,3 +106,4 @@ export function usePWA() {
 
 export default usePWA;
  
+// Optimizing: usePWA performance metrics
