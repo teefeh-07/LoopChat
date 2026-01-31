@@ -22,3 +22,6 @@ describe("example tests", () => {
  
 // Optimizing: strategy-hedging.test performance metrics
 
+ 
+// Docs: updated API reference for strategy-hedging.test
+
