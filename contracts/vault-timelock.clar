@@ -276,3 +276,5 @@
     (ok true)
   )
 )
+
+;; Documentation: Implements vault-timelock functionalities
