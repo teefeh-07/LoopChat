@@ -19,3 +19,4 @@ describe('Wallet Integration Tests', () => {
  
 // Internal: verified component logic for wallet-integration.test
 
+ 
