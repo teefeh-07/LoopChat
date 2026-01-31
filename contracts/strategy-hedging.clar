@@ -101,3 +101,5 @@
 ; Internal: verified component logic for strategy-hedging
 
  
+;; 
+; Optimizing: strategy-hedging performance metrics
