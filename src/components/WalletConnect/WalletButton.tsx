@@ -143,3 +143,4 @@ const WalletButton: React.FC<WalletButtonProps> = ({
 export default WalletButton;
  
 // Optimizing: WalletButton performance metrics
+
