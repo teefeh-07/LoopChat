@@ -121,3 +121,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements mock-dex functionalities
