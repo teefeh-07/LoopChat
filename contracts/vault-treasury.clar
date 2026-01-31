@@ -390,3 +390,5 @@
   (- (var-get total-treasury-balance) (var-get total-allocated))
 )
  
+;; 
+; Docs: updated API reference for vault-treasury
