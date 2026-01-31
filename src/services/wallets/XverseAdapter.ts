@@ -241,3 +241,7 @@ export class XverseAdapter extends WalletAdapter {
 }
 
 export default XverseAdapter;
+
+/**
+ * Documentation: Implements XverseAdapter
+ */
