@@ -209,3 +209,4 @@ const WalletConnect = () => {
 export default WalletConnect;
  
 // Optimizing: WalletConnect performance metrics
+
