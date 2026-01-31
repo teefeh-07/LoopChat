@@ -19,3 +19,6 @@ describe("example tests", () => {
   //   expect(result).toBeUint(0);
   // });
 });
+ 
+// Docs: updated API reference for strategy-velar-lp.test
+
