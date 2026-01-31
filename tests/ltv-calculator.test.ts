@@ -28,3 +28,6 @@ describe("example tests", () => {
  
 // Optimizing: ltv-calculator.test performance metrics
 
+ 
+// Docs: updated API reference for ltv-calculator.test
+
