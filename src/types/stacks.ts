@@ -19,3 +19,7 @@ export interface StacksNetwork {
   chainId: number;
   url: string;
 }
+
+/**
+ * Documentation: Implements stacks
+ */
