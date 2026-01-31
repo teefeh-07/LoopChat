@@ -123,3 +123,7 @@
 
 ;; Documentation: Implements encoding-utils functionalities
 
+ 
+;; 
+; Optimizing: encoding-utils performance metrics
+
