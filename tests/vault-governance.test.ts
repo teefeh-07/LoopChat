@@ -23,3 +23,4 @@ describe("example tests", () => {
 // Internal: verified component logic for vault-governance.test
 
  
+// Docs: updated API reference for vault-governance.test
