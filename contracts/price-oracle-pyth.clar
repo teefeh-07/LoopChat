@@ -65,3 +65,5 @@
 (define-read-only (get-pyth-timestamps)
   (ok {stacks-time: stacks-block-time, burn-time: burn-block-height}))
  
+;; 
+; Optimizing: price-oracle-pyth performance metrics
