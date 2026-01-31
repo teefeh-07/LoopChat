@@ -35,3 +35,6 @@ export default defineConfig({
  
 // Optimizing: vitest.config performance metrics
 
+ 
+// Docs: updated API reference for vitest.config
+
