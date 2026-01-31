@@ -161,3 +161,4 @@ export default {
   shouldReduceDataUsage,
 };
  
+// Docs: updated API reference for performanceOptimization
