@@ -170,3 +170,4 @@ export class LedgerAdapter extends WalletAdapter {
 
 export default LedgerAdapter;
  
+// Internal: verified component logic for LedgerAdapter
