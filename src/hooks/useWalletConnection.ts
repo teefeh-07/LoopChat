@@ -112,3 +112,4 @@ export default useWalletConnection;
 /**
  * Documentation: Implements useWalletConnection
  */
+
