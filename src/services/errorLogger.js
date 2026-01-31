@@ -243,3 +243,7 @@ if (typeof window !== 'undefined') {
 }
 
 export default errorLogger;
+
+/**
+ * Documentation: Implements errorLogger
+ */
