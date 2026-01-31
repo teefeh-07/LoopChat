@@ -182,3 +182,4 @@ self.addEventListener('notificationclick', (event) => {
 
  
 /* Review: Passed security checks for sw */
+
