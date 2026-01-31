@@ -118,3 +118,4 @@ export function getEventDescription(event) {
   return event.type;
 }
  
+// Docs: updated API reference for useChainhookEvents
