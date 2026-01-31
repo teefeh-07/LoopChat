@@ -71,3 +71,5 @@
 ;; Documentation: Implements credit-scoring functionalities
 
  
+;; 
+; Docs: updated API reference for credit-scoring
