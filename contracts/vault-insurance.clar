@@ -385,3 +385,5 @@
 (define-read-only (get-max-coverage (loss-amount uint))
   (calculate-coverage loss-amount)
 )
+
+;; Documentation: Implements vault-insurance functionalities
