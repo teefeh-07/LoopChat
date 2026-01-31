@@ -215,3 +215,4 @@ export default WalletSwitcher;
  
 // Docs: updated API reference for WalletSwitcher
 
+ 
