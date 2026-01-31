@@ -120,3 +120,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements encoding-utils functionalities
