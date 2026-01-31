@@ -158,3 +158,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements kyc-registry functionalities
