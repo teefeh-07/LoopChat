@@ -306,3 +306,4 @@ export default {
   formatPercentage,
 };
  
+// Internal: verified component logic for portfolioCalculations
