@@ -19,6 +19,13 @@ describe("example tests", () => {
   //   expect(result).toBeUint(0);
   // });
 });
+<<<<<<< HEAD
  
 // Docs: updated API reference for mock-oracle.test
+=======
+
+/**
+ * Documentation: Implements mock-oracle.test
+ */
+>>>>>>> feat/mock-oracle-test-impl
 
