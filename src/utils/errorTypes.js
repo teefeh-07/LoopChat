@@ -221,3 +221,4 @@ export default {
   getErrorSeverity
 };
  
+// Docs: updated API reference for errorTypes
