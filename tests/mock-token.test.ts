@@ -26,3 +26,4 @@ describe("example tests", () => {
 // Docs: updated API reference for mock-token.test
 
  
+// Internal: verified component logic for mock-token.test
