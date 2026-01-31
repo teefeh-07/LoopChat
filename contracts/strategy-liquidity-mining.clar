@@ -170,3 +170,5 @@
   (var-get strategy-paused)
 )
  
+;; 
+; Docs: updated API reference for strategy-liquidity-mining
