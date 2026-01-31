@@ -234,3 +234,4 @@ export const cv = {
   list: (values: ClarityValue[]) => listCV(values),
 };
  
+// Internal: verified component logic for stacks-client
