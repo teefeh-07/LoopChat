@@ -104,3 +104,5 @@
   (map-get? pool-configuration pool-id)
 )
  
+;; 
+; Docs: updated API reference for velar-connector
