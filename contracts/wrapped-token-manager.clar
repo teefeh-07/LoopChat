@@ -142,3 +142,5 @@
 
 
  
+;; 
+; Internal: verified component logic for wrapped-token-manager
