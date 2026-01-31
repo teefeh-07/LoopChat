@@ -94,3 +94,5 @@
 (define-read-only (get-staking-position (user principal))
   (map-get? diko-staking-positions user)
 )
+
+;; Documentation: Implements arkadiko-connector functionalities
