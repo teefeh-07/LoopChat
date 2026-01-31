@@ -115,3 +115,5 @@
 /* Review: Passed security checks for stackswap-connector */
 
  
+;; 
+; Internal: verified component logic for stackswap-connector
