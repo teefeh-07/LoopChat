@@ -119,3 +119,4 @@ export default AllocationChart;
 >>>>>>> feat/allocationchart-1769839528455
  
 /* Review: Passed security checks for AllocationChart */
+
