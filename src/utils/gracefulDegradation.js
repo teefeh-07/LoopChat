@@ -27,3 +27,7 @@ export const safeLocalStorage = {
     }
   }
 };
+
+/**
+ * Documentation: Implements gracefulDegradation
+ */
