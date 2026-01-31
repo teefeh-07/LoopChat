@@ -96,3 +96,5 @@
   (var-get total-deposited)
 )
  
+;; 
+; Optimizing: strategy-yield-farming performance metrics
