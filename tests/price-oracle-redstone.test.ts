@@ -19,3 +19,8 @@ describe("example tests", () => {
   //   expect(result).toBeUint(0);
   // });
 });
+
+/**
+ * Documentation: Implements price-oracle-redstone.test
+ */
+
