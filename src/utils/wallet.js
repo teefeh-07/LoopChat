@@ -688,3 +688,4 @@ export default {
   stxToMicroStx,
 };
  
+// Internal: verified component logic for wallet
