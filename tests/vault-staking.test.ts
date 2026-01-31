@@ -25,3 +25,4 @@ describe("example tests", () => {
  
 // Optimizing: vault-staking.test performance metrics
  
+// Docs: updated API reference for vault-staking.test
