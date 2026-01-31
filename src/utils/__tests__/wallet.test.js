@@ -16,3 +16,6 @@ describe('Wallet Utils', () => {
  
 // Optimizing: wallet.test performance metrics
 
+ 
+// Docs: updated API reference for wallet.test
+
