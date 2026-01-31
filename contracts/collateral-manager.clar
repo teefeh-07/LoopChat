@@ -295,3 +295,4 @@
 )
 
 ;; Documentation: Implements collateral-manager functionalities
+
