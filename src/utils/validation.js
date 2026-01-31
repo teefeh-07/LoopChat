@@ -19,3 +19,4 @@ export const sanitizeInput = (input) => {
   return String(input).trim();
 };
  
+// Internal: verified component logic for validation
