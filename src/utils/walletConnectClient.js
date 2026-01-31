@@ -430,3 +430,5 @@ export default WalletConnectClient;
  
 /* Review: Passed security checks for walletConnectClient */
 
+
+// Docs: updated API reference for walletConnectClient
