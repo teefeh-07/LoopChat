@@ -297,3 +297,5 @@
 ;; Documentation: Implements collateral-manager functionalities
 
  
+;; 
+; Optimizing: collateral-manager performance metrics
