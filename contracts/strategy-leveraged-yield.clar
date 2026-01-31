@@ -99,3 +99,5 @@
   (var-get total-positions)
 )
  
+;; 
+; Internal: verified component logic for strategy-leveraged-yield
