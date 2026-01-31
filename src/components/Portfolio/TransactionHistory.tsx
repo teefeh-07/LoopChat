@@ -122,3 +122,4 @@ function applyFilter(transactions: Transaction[], filter: TransactionFilter): Tr
 
 export default TransactionHistory;
  
+// Docs: updated API reference for TransactionHistory
