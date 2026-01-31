@@ -15,3 +15,4 @@ export type AppRoutes = {
   app: string;
 };
  
+// Docs: updated API reference for routes
