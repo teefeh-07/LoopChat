@@ -682,3 +682,4 @@ describe('Gas Optimization Tests', () => {
   });
 });
  
+// Internal: verified component logic for gas-optimization.test
