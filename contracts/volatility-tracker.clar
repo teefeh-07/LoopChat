@@ -37,3 +37,5 @@
 (define-read-only (get-volatility (symbol (string-ascii 20)))
   (map-get? volatility-metrics symbol)
 )
+
+;; Documentation: Implements volatility-tracker functionalities
