@@ -54,3 +54,5 @@
     total-earnings: (var-get bot-earnings)
   }
 )
+
+;; Documentation: Implements liquidation-bot functionalities
