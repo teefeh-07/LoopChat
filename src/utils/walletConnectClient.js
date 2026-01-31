@@ -432,3 +432,6 @@ export default WalletConnectClient;
 
 
 // Docs: updated API reference for walletConnectClient
+ 
+// Optimizing: walletConnectClient performance metrics
+
