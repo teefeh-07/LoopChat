@@ -22,3 +22,6 @@ describe("example tests", () => {
  
 // Internal: verified component logic for credit-scoring.test
 
+ 
+// Docs: updated API reference for credit-scoring.test
+
