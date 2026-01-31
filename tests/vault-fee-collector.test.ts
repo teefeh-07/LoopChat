@@ -19,3 +19,7 @@ describe("example tests", () => {
   //   expect(result).toBeUint(0);
   // });
 });
+
+/**
+ * Documentation: Implements vault-fee-collector.test
+ */
