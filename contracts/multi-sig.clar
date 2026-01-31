@@ -170,3 +170,5 @@
 ; Docs: updated API reference for multi-sig
 
  
+;; 
+; Internal: verified component logic for multi-sig
