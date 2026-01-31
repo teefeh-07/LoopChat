@@ -92,3 +92,4 @@ const WalletModal: React.FC<WalletModalProps> = ({
 
 export default WalletModal;
  
+// Internal: verified component logic for WalletModal
