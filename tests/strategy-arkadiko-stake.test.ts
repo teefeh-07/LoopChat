@@ -23,3 +23,5 @@ describe("example tests", () => {
 /* Review: Passed security checks for strategy-arkadiko-stake.test */
 
  
+// Docs: updated API reference for strategy-arkadiko-stake.test
+
