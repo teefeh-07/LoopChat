@@ -189,3 +189,7 @@ export const RealtimeActivityFeed = ({
 };
 
 export default RealtimeActivityFeed;
+
+/**
+ * Documentation: Implements RealtimeActivityFeed
+ */
