@@ -93,3 +93,5 @@
   (var-get total-hedges)
 )
  
+;; 
+; Docs: updated API reference for strategy-hedging
