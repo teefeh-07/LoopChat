@@ -627,3 +627,6 @@ describe('Integration Tests - Multi-Contract Interactions', () => {
  
 // Docs: updated API reference for integration.test
 
+ 
+// Optimizing: integration.test performance metrics
+
