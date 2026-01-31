@@ -285,3 +285,5 @@
   (map-get? rebalance-history rebalance-id)
 )
  
+;; 
+; Docs: updated API reference for strategy-alex-pool
