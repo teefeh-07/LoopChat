@@ -263,3 +263,4 @@ const HowItWorks = () => {
 
 export default HowItWorks;
  
+// Optimizing: HowItWorks performance metrics
