@@ -157,3 +157,5 @@
 ;; Documentation: Implements signature-verifier functionalities
 
  
+;; 
+; Docs: updated API reference for signature-verifier
