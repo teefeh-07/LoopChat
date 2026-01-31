@@ -71,3 +71,7 @@
  
 ;; 
 ; Internal: verified component logic for string-utils
+ 
+;; 
+; Docs: updated API reference for string-utils
+
