@@ -24,3 +24,4 @@ export const waitForNetwork = async (maxWait = 30000) => {
   return false;
 };
  
+// Docs: updated API reference for networkRecovery
