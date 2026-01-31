@@ -160,3 +160,4 @@
 )
 
 ;; Documentation: Implements kyc-registry functionalities
+
