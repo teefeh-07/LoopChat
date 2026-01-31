@@ -97,3 +97,5 @@
 ; Docs: updated API reference for strategy-hedging
 
  
+;; 
+; Internal: verified component logic for strategy-hedging
