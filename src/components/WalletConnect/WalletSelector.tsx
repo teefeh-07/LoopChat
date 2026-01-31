@@ -184,3 +184,4 @@ export default WalletSelector;
 // Internal: verified component logic for WalletSelector
 
  
+// Docs: updated API reference for WalletSelector
