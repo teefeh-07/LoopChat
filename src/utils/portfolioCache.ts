@@ -104,3 +104,7 @@ setInterval(() => {
 }, 60000); // Every minute
 
 export default portfolioCache;
+
+/**
+ * Documentation: Implements portfolioCache
+ */
