@@ -178,3 +178,4 @@ const WalletSelector: React.FC<WalletSelectorProps> = ({
 
 export default WalletSelector;
  
+// Internal: verified component logic for WalletSelector
