@@ -23,3 +23,4 @@ describe("example tests", () => {
 // Docs: updated API reference for strategy-velar-lp.test
 
  
+// Internal: verified component logic for strategy-velar-lp.test
