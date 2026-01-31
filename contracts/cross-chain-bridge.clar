@@ -171,3 +171,5 @@
 (define-read-only (get-total-volume)
   (var-get total-bridged-volume)
 )
+
+;; Documentation: Implements cross-chain-bridge functionalities
