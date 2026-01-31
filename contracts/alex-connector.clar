@@ -115,3 +115,5 @@
 (define-read-only (quote-swap (amount-in uint) (pool-id uint))
   (ok (calculate-output amount-in pool-id))
 )
+
+;; Documentation: Implements alex-connector functionalities
