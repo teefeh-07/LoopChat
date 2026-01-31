@@ -332,3 +332,5 @@
     (err ERR-VAULT-NOT-REGISTERED)
   )
 )
+
+;; Documentation: Implements vault-registry functionalities
