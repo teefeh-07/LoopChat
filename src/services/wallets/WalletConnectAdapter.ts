@@ -152,3 +152,4 @@ export default class WalletConnectAdapter extends WalletAdapter {
         return result as string;
     }
 }
+ 
