@@ -41,3 +41,4 @@ export default defineConfig({
 });
 
  
+// Internal: verified component logic for vitest.config
