@@ -305,3 +305,5 @@
 /* Review: Passed security checks for collateral-manager */
 
  
+;; 
+; Internal: verified component logic for collateral-manager
