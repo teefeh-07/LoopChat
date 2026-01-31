@@ -97,3 +97,5 @@
   ;; Minimum deposit 1 STX = 1000000 micro-STX
   (>= amount u1000000)
 )
+
+;; Documentation: Implements validation-utils functionalities
