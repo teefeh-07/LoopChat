@@ -118,3 +118,5 @@
   (map-get? fee-distribution-history distribution-id)
 )
  
+;; 
+; Internal: verified component logic for fee-tracker
