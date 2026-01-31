@@ -266,3 +266,6 @@ export default {
  
 /* Review: Passed security checks for wallet */
 
+ 
+// Docs: updated API reference for wallet
+
