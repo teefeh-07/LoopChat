@@ -64,3 +64,4 @@ export default {
   PERFORMANCE_CONFIG,
 };
  
+// Docs: updated API reference for pwaConfig
