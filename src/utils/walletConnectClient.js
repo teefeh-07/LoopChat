@@ -429,3 +429,4 @@ export const walletConnectClient = new WalletConnectClient();
 export default WalletConnectClient;
  
 /* Review: Passed security checks for walletConnectClient */
+
