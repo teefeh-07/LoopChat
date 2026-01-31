@@ -103,3 +103,5 @@
 /* Review: Passed security checks for user-registry */
 
  
+;; 
+; Docs: updated API reference for user-registry
