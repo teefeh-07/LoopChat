@@ -106,3 +106,6 @@
 ;; 
 ; Internal: verified component logic for strategy-arbitrage
 
+ 
+;; 
+; Docs: updated API reference for strategy-arbitrage
