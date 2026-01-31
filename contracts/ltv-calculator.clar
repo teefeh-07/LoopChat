@@ -61,3 +61,7 @@
 ;; 
 ; Optimizing: ltv-calculator performance metrics
 
+ 
+;; 
+; Docs: updated API reference for ltv-calculator
+
