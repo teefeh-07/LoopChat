@@ -205,3 +205,4 @@ export default {
   WALLET_ERRORS,
 };
  
+// Internal: verified component logic for walletConfig
