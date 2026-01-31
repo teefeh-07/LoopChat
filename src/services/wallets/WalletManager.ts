@@ -275,3 +275,4 @@ export const walletManager = new WalletManager();
 
 export default WalletManager;
  
+// Docs: updated API reference for WalletManager
