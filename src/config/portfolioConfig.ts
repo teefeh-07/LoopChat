@@ -62,3 +62,7 @@ export default {
   RISK_THRESHOLDS,
   CACHE_KEYS,
 };
+
+/**
+ * Documentation: Implements portfolioConfig
+ */
