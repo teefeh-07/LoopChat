@@ -271,3 +271,4 @@ const MobileNavigation: React.FC<MobileNavigationProps> = ({
 export default MobileNavigation;
  
 // Internal: verified component logic for MobileNavigation
+
