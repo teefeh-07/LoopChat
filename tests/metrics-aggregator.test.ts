@@ -22,3 +22,6 @@ describe("example tests", () => {
  
 /* Review: Passed security checks for metrics-aggregator.test */
 
+ 
+// Docs: updated API reference for metrics-aggregator.test
+
