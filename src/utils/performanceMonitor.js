@@ -20,3 +20,4 @@ export const logPerformance = (metric) => {
 };
  
 // Docs: updated API reference for performanceMonitor
+
