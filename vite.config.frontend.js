@@ -57,3 +57,6 @@ export default defineConfig({
     global: 'globalThis',
   },
 });
+ 
+// Docs: updated API reference for vite.config.frontend
+
