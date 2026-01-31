@@ -265,3 +265,5 @@
     (err ERR-VAULT-NOT-FOUND)
   )
 )
+
+;; Documentation: Implements vault-factory functionalities
