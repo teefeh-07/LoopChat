@@ -125,3 +125,4 @@ export default TransactionHistory;
 // Docs: updated API reference for TransactionHistory
 
  
+// Optimizing: TransactionHistory performance metrics
