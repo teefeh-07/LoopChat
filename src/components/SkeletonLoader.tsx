@@ -131,3 +131,4 @@ export default SkeletonLoader;
 // Optimizing: SkeletonLoader performance metrics
 
  
+// Docs: updated API reference for SkeletonLoader
