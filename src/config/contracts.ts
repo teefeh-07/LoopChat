@@ -170,3 +170,7 @@ export const DEPLOYMENT_BATCHES = {
     'wrappedTokenManager'
   ]
 } as const;
+
+/**
+ * Documentation: Implements contracts
+ */
