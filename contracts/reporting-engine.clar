@@ -174,3 +174,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements reporting-engine functionalities
