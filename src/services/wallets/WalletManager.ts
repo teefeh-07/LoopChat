@@ -280,3 +280,6 @@ export default WalletManager;
  
 // Optimizing: WalletManager performance metrics
 
+ 
+// Docs: updated API reference for WalletManager
+
