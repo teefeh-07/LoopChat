@@ -62,3 +62,5 @@
     (ft-mint? token-b amount recipient)
   )
 )
+
+;; Documentation: Implements test-token-b functionalities
