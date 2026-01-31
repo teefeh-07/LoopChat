@@ -124,3 +124,4 @@ export function getEventDescription(event) {
 // Internal: verified component logic for useChainhookEvents
 
  
+// Internal: verified component logic for useChainhookEvents
