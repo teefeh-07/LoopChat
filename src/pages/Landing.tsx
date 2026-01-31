@@ -158,3 +158,4 @@ const Landing = () => {
 
 export default Landing;
  
+// Optimizing: Landing performance metrics
