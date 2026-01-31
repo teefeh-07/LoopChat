@@ -217,3 +217,4 @@ export default {
   getWalletDeepLink,
 };
  
+// Optimizing: walletDetection performance metrics
