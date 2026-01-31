@@ -161,3 +161,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements performance-tracker functionalities
