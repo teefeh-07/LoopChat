@@ -103,3 +103,5 @@
   (var-get total-trades)
 )
  
+;; 
+; Internal: verified component logic for strategy-arbitrage
