@@ -28,3 +28,6 @@ describe("example tests", () => {
  
 // Internal: verified component logic for performance-tracker.test
 
+ 
+// Docs: updated API reference for performance-tracker.test
+
