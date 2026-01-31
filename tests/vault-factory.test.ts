@@ -20,3 +20,4 @@ describe("example tests", () => {
   // });
 });
  
+// Internal: verified component logic for vault-factory.test
