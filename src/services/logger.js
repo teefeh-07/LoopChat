@@ -22,3 +22,7 @@ class Logger {
 }
 
 export default new Logger();
+
+/**
+ * Documentation: Implements logger
+ */
