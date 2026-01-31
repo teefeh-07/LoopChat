@@ -167,3 +167,5 @@
 (define-read-only (is-strategy-paused)
   (var-get strategy-paused)
 )
+
+;; Documentation: Implements strategy-ststx-stake functionalities
