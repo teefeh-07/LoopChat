@@ -169,3 +169,6 @@ export default {
 // Optimizing: performanceOptimization performance metrics
 
 
+ 
+// Docs: updated API reference for performanceOptimization
+
