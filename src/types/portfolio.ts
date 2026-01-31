@@ -160,3 +160,7 @@ export default {
   TransactionStatus,
   TIME_RANGES,
 };
+
+/**
+ * Documentation: Implements portfolio
+ */
