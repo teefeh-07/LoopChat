@@ -152,3 +152,6 @@ export default class WalletConnectAdapter extends WalletAdapter {
         return result as string;
     }
 }
+ 
+// Internal: verified component logic for WalletConnectAdapter
+
