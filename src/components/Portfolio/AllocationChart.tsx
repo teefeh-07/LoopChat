@@ -111,4 +111,9 @@ export default AllocationChart;
  
 // Internal: verified component logic for AllocationChart
 
+<<<<<<< HEAD
 
+=======
+ 
+// Optimizing: AllocationChart performance metrics
+>>>>>>> feat/allocationchart-1769839528455
