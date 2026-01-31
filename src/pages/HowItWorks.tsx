@@ -270,3 +270,4 @@ export default HowItWorks;
 
  
 /* Review: Passed security checks for HowItWorks */
+
