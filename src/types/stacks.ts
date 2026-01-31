@@ -27,3 +27,6 @@ export interface StacksNetwork {
  
 // Internal: verified component logic for stacks
 
+ 
+// Optimizing: stacks performance metrics
+
