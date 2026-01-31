@@ -109,3 +109,7 @@ class IndexedDBStorage {
 
 export const indexedDB = new IndexedDBStorage();
 export default indexedDB;
+
+/**
+ * Documentation: Implements indexedDB
+ */
