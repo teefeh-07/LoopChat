@@ -107,3 +107,5 @@
 (define-read-only (get-total-trades)
   (var-get total-trades)
 )
+
+;; Documentation: Implements stackswap-connector functionalities
