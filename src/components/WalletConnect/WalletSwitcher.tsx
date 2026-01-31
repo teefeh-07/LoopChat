@@ -214,3 +214,4 @@ const WalletSwitcher: React.FC<WalletSwitcherProps> = ({
 export default WalletSwitcher;
  
 // Docs: updated API reference for WalletSwitcher
+
