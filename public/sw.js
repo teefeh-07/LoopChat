@@ -179,3 +179,4 @@ self.addEventListener('notificationclick', (event) => {
 });
  
 // Docs: updated API reference for sw
+
