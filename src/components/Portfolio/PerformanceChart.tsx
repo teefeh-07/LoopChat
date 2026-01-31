@@ -195,3 +195,4 @@ export default PerformanceChart;
 
  
 /* Review: Passed security checks for PerformanceChart */
+
