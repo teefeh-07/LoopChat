@@ -147,3 +147,7 @@ const InstallPrompt: React.FC = () => {
 };
 
 export default InstallPrompt;
+
+/**
+ * Documentation: Implements InstallPrompt
+ */
