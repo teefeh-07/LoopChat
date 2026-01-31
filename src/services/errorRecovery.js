@@ -286,3 +286,6 @@ export default {
  * Documentation: Implements errorRecovery
  */
 
+ 
+// Docs: updated API reference for errorRecovery
+
