@@ -258,3 +258,4 @@ export default {
   WalletEventListener,
 };
  
+// Docs: updated API reference for wallet
