@@ -115,3 +115,5 @@
   (ok (- (* (+ (/ timestamp SECONDS-PER-DAY) u1) SECONDS-PER-DAY) u1))
 )
  
+;; 
+; Internal: verified component logic for time-utils
