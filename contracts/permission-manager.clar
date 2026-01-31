@@ -149,3 +149,4 @@
 )
 
 ;; Documentation: Implements permission-manager functionalities
+
