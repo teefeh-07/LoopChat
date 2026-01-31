@@ -242,3 +242,5 @@
   (is-authorized-contract contract)
 )
  
+;; 
+; Internal: verified component logic for strategy-vault
