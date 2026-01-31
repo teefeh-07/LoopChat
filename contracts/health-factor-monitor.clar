@@ -91,3 +91,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements health-factor-monitor functionalities
