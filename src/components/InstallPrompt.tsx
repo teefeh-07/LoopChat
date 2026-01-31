@@ -156,3 +156,4 @@ export default InstallPrompt;
 /* Review: Passed security checks for InstallPrompt */
 
  
+// Docs: updated API reference for InstallPrompt
