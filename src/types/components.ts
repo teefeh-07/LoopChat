@@ -16,3 +16,4 @@ export interface ErrorBoundaryProps {
   children: React.ReactNode;
 }
  
+// Docs: updated API reference for components
