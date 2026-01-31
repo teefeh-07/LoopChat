@@ -122,3 +122,5 @@
   (if (is-eq exponent u12) u1000000000000
   u1)))))))))))))
 )
+
+;; Documentation: Implements conversion-utils functionalities
