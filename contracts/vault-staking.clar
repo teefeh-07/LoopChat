@@ -404,3 +404,5 @@
 ; Optimizing: vault-staking performance metrics
 
  
+;; 
+; Docs: updated API reference for vault-staking
