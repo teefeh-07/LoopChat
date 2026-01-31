@@ -213,3 +213,4 @@ export default WalletConnect;
  
 // Optimizing: WalletConnect performance metrics
 
+ 
