@@ -22,3 +22,6 @@ describe("example tests", () => {
  
 // Optimizing: mock-token.test performance metrics
 
+ 
+// Docs: updated API reference for mock-token.test
+
