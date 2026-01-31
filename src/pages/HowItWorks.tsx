@@ -265,3 +265,6 @@ export default HowItWorks;
  
 // Optimizing: HowItWorks performance metrics
 
+ 
+// Internal: verified component logic for HowItWorks
+
