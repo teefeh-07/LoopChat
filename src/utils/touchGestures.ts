@@ -101,3 +101,7 @@ export function useTouchGestures(
 }
 
 export default TouchGestureHandler;
+
+/**
+ * Documentation: Implements touchGestures
+ */
