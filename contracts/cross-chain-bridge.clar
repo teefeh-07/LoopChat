@@ -182,3 +182,5 @@
 ; Optimizing: cross-chain-bridge performance metrics
 
  
+;; 
+; Docs: updated API reference for cross-chain-bridge
