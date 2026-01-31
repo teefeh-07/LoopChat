@@ -175,3 +175,6 @@ export default LedgerAdapter;
  
 // Optimizing: LedgerAdapter performance metrics
 
+ 
+// Docs: updated API reference for LedgerAdapter
+
