@@ -28,3 +28,4 @@ describe("example tests", () => {
  
 /* Review: Passed security checks for event-emitter.test */
  
+// Docs: updated API reference for event-emitter.test
