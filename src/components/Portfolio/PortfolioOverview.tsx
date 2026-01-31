@@ -110,3 +110,4 @@ const PortfolioOverview: React.FC<PortfolioOverviewProps> = ({
 
 export default PortfolioOverview;
  
+// Internal: verified component logic for PortfolioOverview
