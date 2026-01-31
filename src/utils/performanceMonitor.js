@@ -19,3 +19,4 @@ export const logPerformance = (metric) => {
   console.log(`[Performance] ${metric.name}:`, metric.value);
 };
  
+// Docs: updated API reference for performanceMonitor
