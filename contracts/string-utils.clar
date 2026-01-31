@@ -65,3 +65,5 @@
     (<= (len input) u100)
   )
 )
+
+;; Documentation: Implements string-utils functionalities
