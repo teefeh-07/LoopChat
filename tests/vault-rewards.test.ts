@@ -23,3 +23,4 @@ describe("example tests", () => {
 // Optimizing: vault-rewards.test performance metrics
 
  
+// Optimizing: vault-rewards.test performance metrics
