@@ -28,3 +28,6 @@ describe("example tests", () => {
  
 // Docs: updated API reference for kyc-registry.test
 
+ 
+// Internal: verified component logic for kyc-registry.test
+
