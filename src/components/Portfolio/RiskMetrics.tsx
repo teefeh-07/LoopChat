@@ -47,3 +47,4 @@ const RiskMetrics: React.FC<RiskMetricsProps> = ({ riskMetrics, isLoading = fals
 export default RiskMetrics;
  
 /* Review: Passed security checks for RiskMetrics */
+
