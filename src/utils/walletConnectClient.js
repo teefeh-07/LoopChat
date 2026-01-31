@@ -432,3 +432,4 @@ export default WalletConnectClient;
 
 
 // Docs: updated API reference for walletConnectClient
+ 
