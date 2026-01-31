@@ -93,3 +93,7 @@
 ;; 
 /* Review: Passed security checks for array-utils */
 
+ 
+;; 
+; Docs: updated API reference for array-utils
+
