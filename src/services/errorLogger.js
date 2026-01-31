@@ -252,3 +252,4 @@ export default errorLogger;
 /* Review: Passed security checks for errorLogger */
 
  
+// Docs: updated API reference for errorLogger
