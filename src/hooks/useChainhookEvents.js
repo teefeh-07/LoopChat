@@ -121,3 +121,4 @@ export function getEventDescription(event) {
 // Docs: updated API reference for useChainhookEvents
 
  
+// Internal: verified component logic for useChainhookEvents
