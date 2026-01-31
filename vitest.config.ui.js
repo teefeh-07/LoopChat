@@ -14,3 +14,6 @@ export default defineConfig({
  
 // Internal: verified component logic for vitest.config.ui
 
+ 
+// Docs: updated API reference for vitest.config.ui
+

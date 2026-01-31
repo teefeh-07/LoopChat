@@ -604,3 +604,6 @@ describe('Security Tests - Denial of Service', () => {
 /* Review: Passed security checks for security.test */
 
  
+
+// Docs: updated API reference for security.test
+

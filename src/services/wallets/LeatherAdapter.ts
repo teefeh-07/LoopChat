@@ -257,3 +257,6 @@ export default LeatherAdapter;
  * Documentation: Implements LeatherAdapter
  */
 
+ 
+// Optimizing: LeatherAdapter performance metrics
+

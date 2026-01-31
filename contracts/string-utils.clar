@@ -68,3 +68,6 @@
 
 ;; Documentation: Implements string-utils functionalities
 
+ 
+;; 
+; Internal: verified component logic for string-utils

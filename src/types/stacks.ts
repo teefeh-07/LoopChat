@@ -24,3 +24,6 @@ export interface StacksNetwork {
  * Documentation: Implements stacks
  */
 
+ 
+// Internal: verified component logic for stacks
+

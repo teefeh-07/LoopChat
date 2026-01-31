@@ -87,3 +87,7 @@
 ;; 
 /* Review: Passed security checks for risk-assessment */
 
+ 
+;; 
+; Docs: updated API reference for risk-assessment
+

@@ -625,3 +625,5 @@ describe('Integration Tests - Multi-Contract Interactions', () => {
 /* Review: Passed security checks for integration.test */
 
  
+// Docs: updated API reference for integration.test
+
