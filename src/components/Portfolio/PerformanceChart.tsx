@@ -193,3 +193,4 @@ export default PerformanceChart;
  
 // Optimizing: PerformanceChart performance metrics
 
+ 
