@@ -105,3 +105,4 @@ export default TouchGestureHandler;
 /**
  * Documentation: Implements touchGestures
  */
+
