@@ -96,3 +96,4 @@ export default useWalletSwitcher;
 /**
  * Documentation: Implements useWalletSwitcher
  */
+
