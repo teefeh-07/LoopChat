@@ -231,3 +231,5 @@
 (define-read-only (is-collection-paused)
   (var-get fee-collection-paused)
 )
+
+;; Documentation: Implements vault-fee-collector functionalities
