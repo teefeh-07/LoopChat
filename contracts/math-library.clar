@@ -156,3 +156,7 @@
 
 ;; Documentation: Implements math-library functionalities
 
+ 
+;; 
+; Docs: updated API reference for math-library
+
