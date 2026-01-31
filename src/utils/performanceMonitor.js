@@ -26,3 +26,4 @@ export const logPerformance = (metric) => {
 
  
 // Internal: verified component logic for performanceMonitor
+
