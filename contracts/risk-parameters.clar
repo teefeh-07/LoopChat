@@ -76,3 +76,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements risk-parameters functionalities
