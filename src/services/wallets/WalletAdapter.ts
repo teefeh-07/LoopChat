@@ -158,3 +158,4 @@ export default WalletAdapter;
  */
 
  
+// Internal: verified component logic for WalletAdapter
