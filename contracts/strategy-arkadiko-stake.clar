@@ -280,3 +280,5 @@
   (map-get? compound-history compound-id)
 )
  
+;; 
+; Docs: updated API reference for strategy-arkadiko-stake
