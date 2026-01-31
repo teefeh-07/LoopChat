@@ -111,3 +111,5 @@
 (define-read-only (get-daily-volume (day-timestamp uint))
   (map-get? daily-volume day-timestamp)
 )
+
+;; Documentation: Implements analytics-tracker functionalities
