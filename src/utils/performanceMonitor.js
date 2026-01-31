@@ -24,3 +24,4 @@ export const logPerformance = (metric) => {
  
 // Optimizing: performanceMonitor performance metrics
 
+ 
