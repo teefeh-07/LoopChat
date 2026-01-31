@@ -79,3 +79,5 @@
   ;; Simple 10% APY calculation
   (ok (/ (* (* staked u10) duration) u31536000))
 )
+
+;; Documentation: Implements test-helpers functionalities
