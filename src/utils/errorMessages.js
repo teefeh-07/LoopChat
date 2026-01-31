@@ -281,3 +281,7 @@ export default {
   getErrorIcon,
   getHelpUrl
 };
+
+/**
+ * Documentation: Implements errorMessages
+ */
