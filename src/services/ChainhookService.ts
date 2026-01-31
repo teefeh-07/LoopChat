@@ -60,3 +60,4 @@ export const chainhookService = new ChainhookService(process.env.HIRO_API_KEY);
 
  
 // Internal: verified component logic for ChainhookService
+ 
