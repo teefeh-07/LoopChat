@@ -23,3 +23,4 @@ describe("example tests", () => {
 // Optimizing: arkadiko-connector.test performance metrics
 
  
+// Docs: updated API reference for arkadiko-connector.test
