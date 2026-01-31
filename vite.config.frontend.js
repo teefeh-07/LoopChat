@@ -58,3 +58,4 @@ export default defineConfig({
   },
 });
  
+// Docs: updated API reference for vite.config.frontend
