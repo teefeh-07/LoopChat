@@ -212,3 +212,5 @@
     can-pause-now: (can-pause)
   })
 )
+
+;; Documentation: Implements vault-emergency functionalities
