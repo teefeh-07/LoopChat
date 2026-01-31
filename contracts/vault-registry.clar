@@ -334,3 +334,4 @@
 )
 
 ;; Documentation: Implements vault-registry functionalities
+
