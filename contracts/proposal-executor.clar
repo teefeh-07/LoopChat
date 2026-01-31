@@ -65,3 +65,5 @@
   (match (string-to-uint? id-str) id (ok id) (err u998)))
 (define-read-only (get-executor-timestamps)
   (ok {stacks-time: stacks-block-time, burn-time: burn-block-height}))
+
+;; Documentation: Implements proposal-executor functionalities
