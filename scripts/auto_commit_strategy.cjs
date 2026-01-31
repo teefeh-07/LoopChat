@@ -62,7 +62,7 @@ targets.sort(() => Math.random() - 0.5);
 async function processFile(file) {
     const relPath = path.relative(rootDir, file).replace(/\\/g, '/');
     const name = path.basename(file, path.extname(file));
-    // Branch name must be valid
+    const cleanName = name.replace(/[^a-zA-Z0-9-]/g, '-').toLowerCase();
     const timestamp = Date.now();
     const branchName = `feat/${cleanName}-${timestamp}`;
 
