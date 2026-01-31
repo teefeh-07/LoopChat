@@ -29,3 +29,4 @@ describe("example tests", () => {
 /* Review: Passed security checks for strategy-velar-lp.test */
 
  
+// Docs: updated API reference for strategy-velar-lp.test
