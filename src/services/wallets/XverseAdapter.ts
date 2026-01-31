@@ -245,3 +245,4 @@ export default XverseAdapter;
 /**
  * Documentation: Implements XverseAdapter
  */
+
