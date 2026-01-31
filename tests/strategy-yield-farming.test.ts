@@ -23,4 +23,3 @@ describe("example tests", () => {
 // Optimizing: strategy-yield-farming.test performance metrics
 
  
-// Internal: verified component logic for strategy-yield-farming.test

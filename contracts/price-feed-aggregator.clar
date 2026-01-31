@@ -69,3 +69,6 @@
 ; Internal: verified component logic for price-feed-aggregator
 
  
+;; 
+; Docs: updated API reference for price-feed-aggregator
+
