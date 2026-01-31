@@ -83,3 +83,7 @@ export function usePortfolio(address: string | null) {
 }
 
 export default usePortfolio;
+
+/**
+ * Documentation: Implements usePortfolio
+ */
