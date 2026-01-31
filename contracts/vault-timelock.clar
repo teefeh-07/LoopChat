@@ -279,3 +279,7 @@
 
 ;; Documentation: Implements vault-timelock functionalities
 
+ 
+;; 
+; Docs: updated API reference for vault-timelock
+
