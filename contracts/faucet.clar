@@ -161,3 +161,6 @@
 /* Review: Passed security checks for faucet */
 
  
+;; 
+; Docs: updated API reference for faucet
+
