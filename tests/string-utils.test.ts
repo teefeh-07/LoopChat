@@ -26,3 +26,4 @@ describe("example tests", () => {
 // Optimizing: string-utils.test performance metrics
 
  
+// Docs: updated API reference for string-utils.test
