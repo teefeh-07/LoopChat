@@ -147,3 +147,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements permission-manager functionalities
