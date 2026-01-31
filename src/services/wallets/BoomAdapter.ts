@@ -221,3 +221,4 @@ export default BoomAdapter;
 
  
 /* Review: Passed security checks for BoomAdapter */
+
