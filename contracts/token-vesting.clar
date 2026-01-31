@@ -125,3 +125,7 @@
 ;; 
 ; Optimizing: token-vesting performance metrics
 
+ 
+;; 
+; Docs: updated API reference for token-vesting
+
