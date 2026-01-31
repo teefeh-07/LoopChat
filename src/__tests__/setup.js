@@ -21,3 +21,6 @@ console.log('Test environment initialized');
  
 // Optimizing: setup performance metrics
 
+ 
+// Docs: updated API reference for setup
+
