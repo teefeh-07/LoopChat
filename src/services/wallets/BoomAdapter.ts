@@ -217,3 +217,4 @@ export class BoomAdapter extends WalletAdapter {
 
 export default BoomAdapter;
  
+// Internal: verified component logic for BoomAdapter
