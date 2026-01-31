@@ -90,3 +90,5 @@
   (map-get? delta-neutral-positions position-id)
 )
  
+;; 
+; Optimizing: strategy-delta-neutral performance metrics
