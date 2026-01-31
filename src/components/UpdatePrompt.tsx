@@ -127,3 +127,7 @@ const UpdatePrompt: React.FC<UpdatePromptProps> = ({
 };
 
 export default UpdatePrompt;
+
+/**
+ * Documentation: Implements UpdatePrompt
+ */
