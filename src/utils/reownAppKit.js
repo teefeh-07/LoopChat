@@ -393,3 +393,4 @@ export default ReownAppKitManager;
  * await reownAppKit.disconnect();
  */
  
+// Optimizing: reownAppKit performance metrics
