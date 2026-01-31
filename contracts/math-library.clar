@@ -153,3 +153,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements math-library functionalities
