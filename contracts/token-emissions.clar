@@ -100,3 +100,5 @@
   (var-get emissions-paused)
 )
  
+;; 
+; Internal: verified component logic for token-emissions
