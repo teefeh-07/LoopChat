@@ -26,3 +26,4 @@ describe("example tests", () => {
 // Internal: verified component logic for strategy-arbitrage.test
 
  
+// Docs: updated API reference for strategy-arbitrage.test
