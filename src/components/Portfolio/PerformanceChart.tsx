@@ -196,3 +196,6 @@ export default PerformanceChart;
  
 /* Review: Passed security checks for PerformanceChart */
 
+ 
+// Docs: updated API reference for PerformanceChart
+
