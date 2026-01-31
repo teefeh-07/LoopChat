@@ -19,3 +19,4 @@ describe('useWallet Hook', () => {
 });
  
 // Docs: updated API reference for useWallet.test
+
