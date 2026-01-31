@@ -60,3 +60,6 @@ export default defineConfig({
  
 // Docs: updated API reference for vite.config.frontend
 
+ 
+// Optimizing: vite.config.frontend performance metrics
+
