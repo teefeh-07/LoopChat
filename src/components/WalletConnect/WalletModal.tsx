@@ -99,3 +99,4 @@ export default WalletModal;
 
  
 /* Review: Passed security checks for WalletModal */
+
