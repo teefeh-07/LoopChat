@@ -100,3 +100,5 @@
 (define-read-only (get-total-fees)
   (var-get total-fees-earned)
 )
+
+;; Documentation: Implements strategy-flash-loans functionalities
