@@ -184,3 +184,7 @@ app.listen(PORT, () => {
 });
 
 export default app;
+
+/**
+ * Documentation: Implements index
+ */
