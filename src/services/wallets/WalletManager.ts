@@ -278,3 +278,4 @@ export default WalletManager;
 /**
  * Documentation: Implements WalletManager
  */
+
