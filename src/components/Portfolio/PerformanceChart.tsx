@@ -191,3 +191,4 @@ function filterSnapshotsByRange(
 
 export default PerformanceChart;
  
+// Optimizing: PerformanceChart performance metrics
