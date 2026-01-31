@@ -1,4 +1,4 @@
-# ChainChat AN AI DeFi Strategy Engine
+# LoopChat AN AI DeFi Strategy Engine
 
 ## 🎯 What This Does
 Control DeFi strategies on Stacks using simple English commands like "start safe strategy" or "exit all positions".
@@ -75,7 +75,7 @@ Converts English to strategy actions:
 
 ```bash
 # Clone the repository
-git clone https://github.com/gboigwe/ChainChat.git
+git clone https://github.com/teefeh-07/LoopChat.git
 cd ChainChat
 
 # Install dependencies
@@ -277,7 +277,7 @@ For detailed documentation, see `CHAINHOOKS_README.md`
 
 ```bash
 # Clone and setup
-git clone https://github.com/gboigwe/ChainChat
+git clone https://github.com/teefeh-07/LoopChat.git
 cd ChainChat
 
 # Install dependencies
