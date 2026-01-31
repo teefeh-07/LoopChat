@@ -273,3 +273,7 @@ export default {
   fetchPortfolioSnapshots,
   getCacheKey,
 };
+
+/**
+ * Documentation: Implements portfolioService
+ */
