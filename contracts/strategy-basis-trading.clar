@@ -70,3 +70,5 @@
 (define-read-only (get-trade (trade-id uint))
   (map-get? basis-trades trade-id)
 )
+
+;; Documentation: Implements strategy-basis-trading functionalities
