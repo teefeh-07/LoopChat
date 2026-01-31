@@ -355,3 +355,4 @@ export const useWallet = () => {
 export default useWallet;
  
 // Optimizing: useWallet performance metrics
+
