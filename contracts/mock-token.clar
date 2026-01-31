@@ -107,3 +107,5 @@
 ; Docs: updated API reference for mock-token
 
  
+;; 
+; Internal: verified component logic for mock-token
