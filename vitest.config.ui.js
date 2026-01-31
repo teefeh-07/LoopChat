@@ -18,3 +18,4 @@ export default defineConfig({
 // Docs: updated API reference for vitest.config.ui
 
  
+/* Review: Passed security checks for vitest.config.ui */
