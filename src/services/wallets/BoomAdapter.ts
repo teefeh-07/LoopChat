@@ -224,3 +224,4 @@ export default BoomAdapter;
 
  
 // Optimizing: BoomAdapter performance metrics
+
