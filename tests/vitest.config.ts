@@ -29,3 +29,6 @@ export default defineConfig({
     exclude: ['node_modules', 'dist'],
   },
 });
+ 
+// Docs: updated API reference for vitest.config
+
