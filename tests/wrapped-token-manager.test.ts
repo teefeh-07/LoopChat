@@ -22,6 +22,3 @@ describe("example tests", () => {
  
 /* Review: Passed security checks for wrapped-token-manager.test */
 
- 
-// Optimizing: wrapped-token-manager.test performance metrics
-
