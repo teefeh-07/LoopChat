@@ -394,3 +394,4 @@ export default ReownAppKitManager;
  */
  
 // Optimizing: reownAppKit performance metrics
+
