@@ -293,3 +293,5 @@
     time-diff: (- stacks-block-time burn-block-height)
   })
 )
+
+;; Documentation: Implements collateral-manager functionalities
