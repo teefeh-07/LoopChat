@@ -20,3 +20,4 @@ describe("example tests", () => {
   // });
 });
  
+// Docs: updated API reference for permission-manager.test
