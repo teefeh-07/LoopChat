@@ -60,3 +60,6 @@ export default App;
  
 /* Review: Passed security checks for App */
 
+ 
+// Docs: updated API reference for App
+
