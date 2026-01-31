@@ -10,3 +10,4 @@ export { default as RiskMetrics } from './RiskMetrics';
 export { default as TransactionHistory } from './TransactionHistory';
 export { default as AllocationChart } from './AllocationChart';
  
+// Internal: verified component logic for index
