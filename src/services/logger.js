@@ -26,3 +26,4 @@ export default new Logger();
 /**
  * Documentation: Implements logger
  */
+
