@@ -214,3 +214,5 @@
     burn-time: burn-block-height
   })
 )
+
+;; Documentation: Implements swap-router functionalities
