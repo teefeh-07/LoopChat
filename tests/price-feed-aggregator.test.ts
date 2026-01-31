@@ -23,3 +23,4 @@ describe("example tests", () => {
 /* Review: Passed security checks for price-feed-aggregator.test */
 
  
+// Docs: updated API reference for price-feed-aggregator.test
