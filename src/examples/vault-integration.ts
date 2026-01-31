@@ -189,3 +189,6 @@ async function main() {
  
 // Optimizing: vault-integration performance metrics
 
+ 
+// Docs: updated API reference for vault-integration
+
