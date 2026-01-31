@@ -25,3 +25,6 @@ describe("example tests", () => {
  
 /* Review: Passed security checks for permission-manager.test */
 
+ 
+// Docs: updated API reference for permission-manager.test
+
