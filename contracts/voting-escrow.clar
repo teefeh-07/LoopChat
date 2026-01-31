@@ -101,3 +101,7 @@
 ;; 
 /* Review: Passed security checks for voting-escrow */
 
+ 
+;; 
+; Docs: updated API reference for voting-escrow
+
