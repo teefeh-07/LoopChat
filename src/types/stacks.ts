@@ -25,3 +25,5 @@ export interface StacksNetwork {
  */
 
  
+// Internal: verified component logic for stacks
+
