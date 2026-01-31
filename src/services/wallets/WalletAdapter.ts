@@ -152,3 +152,7 @@ export abstract class WalletAdapter {
 }
 
 export default WalletAdapter;
+
+/**
+ * Documentation: Implements WalletAdapter
+ */
