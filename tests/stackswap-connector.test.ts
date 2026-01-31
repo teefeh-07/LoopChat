@@ -23,3 +23,4 @@ describe("example tests", () => {
 // Optimizing: stackswap-connector.test performance metrics
 
  
+// Docs: updated API reference for stackswap-connector.test
